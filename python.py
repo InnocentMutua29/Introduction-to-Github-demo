@@ -1,0 +1,1 @@
+print ("Hello Python!This is my first Python code in VS Code!")
